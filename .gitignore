@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# ide temporary files
+.idea
+cmake-build-*

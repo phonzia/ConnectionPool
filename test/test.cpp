@@ -1,6 +1,5 @@
 #include <iostream>
-#include "../src/conn_guard.hpp"
-#include "../src/connection_pool.hpp"
+#include "../single_header/connection_pool.hpp"
 
 using namespace std;
 using namespace modern_utils;
